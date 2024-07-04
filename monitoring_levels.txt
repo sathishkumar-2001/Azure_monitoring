@@ -1,0 +1,8 @@
+Resource monitoring is monitored at 6 levels
+
+L1 - Network components -> network watcher
+L2 - Nodes/node -> Prometheus
+L3 - control plane -> azure monitor
+L4 - data plane -> Prometheus
+L5 -  application performance -> azure monitor
+L6 - vm/storage -> azure monitor
