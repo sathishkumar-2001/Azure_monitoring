@@ -67,6 +67,7 @@ Monitor all layers of your applications, including infrastructure, application c
 By leveraging Azure's monitoring capabilities, you can maintain visibility into the health and performance of your resources, proactively identify and address issues, and ensure the reliability and security of your applications and infrastructure.
 
 
+![image](https://github.com/sathishkumar-2001/Azure_monitoring/assets/126504329/edaca7bb-029c-457b-befc-4e704e023cfe)
 
 
 
